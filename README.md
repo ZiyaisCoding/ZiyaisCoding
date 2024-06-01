@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ZiyaisCoding
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning Python and Data Structure
 - 💞️ I’m looking to collaborate on Machine Learning and AI projects
 - 📫 How to reach me - mohd.ziyak.11@gmail.com
